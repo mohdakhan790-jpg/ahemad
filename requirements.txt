@@ -4,3 +4,4 @@ python-dotenv
 aiohttp
 pytz
 schedule
+Pillow>=8.1.1
